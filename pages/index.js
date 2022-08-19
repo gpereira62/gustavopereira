@@ -46,6 +46,10 @@ const Cover = ({ technologies }) => {
               Bora começar!
             </Button>
           </Box>
+
+          {/* {technologies.map(t => (
+
+          ))} */}
         </Flex>
       </Flex>
     </Box>
